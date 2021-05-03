@@ -1,6 +1,6 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
+    "title": "Harshil Dhariwal",
+    "name": "personalwebsite-hd",
     "version": "6.0.5",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "Creative is a stylish one page HTML theme built with Bootstrap.",
+    "description": "My personal website build using the creative template on start bootstrap.",
     "keywords": [
         "css",
         "sass",
